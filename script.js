@@ -1,1 +1,1 @@
-alert("Salut")
+alert("Salutare")
